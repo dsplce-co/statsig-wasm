@@ -58,15 +58,6 @@ spawn_local(async move {
 
 ---
 
-## 📁 Repo & Contributions
-
-📦 Crate: [crates.io/crates/statsig-wasm](https://crates.io/crates/statsig-wasm)<br>
-🛠️ Repo: [github.com/dsplce-co/statsig-wasm](https://github.com/dsplce-co/statsig-wasm)
-
-PRs welcome! 🖤
-
----
-
 ## 🔒 License
 
 MIT or Apache-2.0, at your option.
